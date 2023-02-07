@@ -1,8 +1,9 @@
 Hi 👋 My name is Adi Fischer
 ============================
 
-Full-stack Software Engineer
+Full-stack Software Engineer 
 ----------------------------
+### I'm a full-stack Software Developer with a prior background in Education and Sound Engineering.
 
 * 🌍  I'm based in South Florida
 * 🖥️  See my portfolio at [adifischer.com](http://adifischer.com)
